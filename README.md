@@ -18,4 +18,5 @@ Welcome to **FroggerProcess**, a terminal-based implementation of *Frogger* buil
 - **Programming Language**: C
 - **Graphics**: ncurses for rendering game elements.
 - **Process Management**: Fork and exec system calls for spawning and managing game elements.
-- **Inter-Process Communication**: Shared memory or signals (depending on implementation).
+
+
